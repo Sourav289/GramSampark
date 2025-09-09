@@ -10,3 +10,4 @@ Summarizes each using OpenAI
 
 
 step 1: making a correct plan of the  project
+hello
