@@ -1,6 +1,5 @@
-import openai
 
-openai.api_key = 'YOUR_API_KEY'
+openai.api_key = 'any_api'
 
 email_text = """
 Hi Jane, just a reminder that we have the Q3 planning meeting tomorrow at 10 AM 
