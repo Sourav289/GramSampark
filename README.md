@@ -1,4 +1,4 @@
-# Upcoming
+# Upcoming soon
 Work IN progress
 📧 Email Summarizer with GPT
 
