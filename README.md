@@ -1,6 +1,7 @@
 # Upcoming soon
 Work IN progress
-📧 Email Summarizer with GPT
+📧 Email Summarizer with GPT  Creating logics
+
 
 Create a tool that:
 Connects to Gmail
