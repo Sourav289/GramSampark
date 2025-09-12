@@ -3,7 +3,7 @@ Work IN progress
 📧 Email Summarizer with GPT  Creating logics
 
 
-Create a tool that:
+Create a tool that: searching for a  tool
 Connects to Gmail
 Fetches unread emails
 Summarizes each using OpenAI
