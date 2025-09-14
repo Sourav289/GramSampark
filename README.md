@@ -7,7 +7,7 @@ Create a tool that: searching for a  tool
 Connects to Gmail
 Fetches unread emails
 Summarizes each using OpenAI
-✅Tools: Python, Gmail API, OpenAI, OAuth
+✅Tools: Python, Gmail API, OpenAI, OAuth, security
 
 
 step 1: making a correct plan of the  project
