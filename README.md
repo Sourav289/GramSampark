@@ -15,7 +15,7 @@ hello
 🧠 Core JavaScript in the Front-End
 1. DOM Manipulation
 
-Selecting HTML elements (document.querySelector)
+Selecting HTML elements (document.querySelector) using query selector
 
 Changing content (element.innerText, element.innerHTML)
 
