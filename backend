@@ -1,24 +1,4 @@
-
-openai.api_key = 'any_api'
-
-email_text = """
-Hi Jane, just a reminder that we have the Q3 planning meeting tomorrow at 10 AM 
-in the main conference room. Please bring the revised budget report.
-"""
-
-prompt = f"""
-Summarize the following email in 2-3 bullet points. 
-Include any action items or urgency if applicable.
-
-Email:
-{email_text}
-"""
-
-response = openai.ChatCompletion.create(
-    model="gpt-4",
-    messages=[{"role": "user", "content": prompt}],
-    temperature=0.3
-)
-
-print(response['choices'][0]['message']['content'].strip())
-
+Use Firebase / Supabase for fast backend setup
+Use Flutter or React Native for one app across Android & iOS
+Use templates or UI kits for faster frontend
+Integrate Map APIs, SMS gateways early
