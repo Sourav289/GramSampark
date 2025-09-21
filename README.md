@@ -2,7 +2,7 @@
 1. 📢 Community Voting / Upvoting
 
 Let citizens upvote existing complaints (e.g. pothole reported by someone else)
-
+Add features which does not exist in india 
 Helps prioritize common or urgent issues
 
 Reduces duplicate complaints
