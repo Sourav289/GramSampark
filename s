@@ -10,3 +10,4 @@ to their respective panchayat or ward offices.
 The goal is to create a transparent, efficient, and accountable communication bridge between citizens and
 local government bodies. This system ensures faster resolution of local problems by enabling real-time tracking,
 direct communication, and data-driven governance at the grassroots level.
+Adding additional features
